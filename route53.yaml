@@ -47,9 +47,9 @@ Parameters:
   ChangeOrder:
     Description:                            PRODUCTION ONLY - CO Number
     Type:                                   String
-    Default:                                C0123456789
+    Default:                                "entervalue"
   DBPassword:
-    Default:                                master2016
+    Default:                                test2020
     Description:                            Master password for ogba Database
     Type:                                   String
     MinLength:                              8
